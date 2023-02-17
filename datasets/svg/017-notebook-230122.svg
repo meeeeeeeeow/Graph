@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<path style="fill:#FF9F00;" d="M496,150h-90V60h90V150z"/>
+<path style="fill:#9CDD05;" d="M496,271h-90v-90h90V271z"/>
+<path style="fill:#FF4B00;" d="M496,392h-90v-90h90V392z"/>
+<polygon style="fill:#2FC0F0;" points="436,0 436,452 76,452 76,41.7 106,0 "/>
+<rect x="271" style="fill:#0FA9DD;" width="165" height="452"/>
+<path style="fill:#E7E7E7;" d="M136,60v151h240V60H136z"/>
+<rect x="271" y="60" style="fill:#D3D3D8;" width="105" height="151"/>
+<path style="fill:#53433F;" d="M46,467H16V45C16,20.186,36.186,0,61,0h45v452H61C52.724,452,46,458.724,46,467z"/>
+<path style="fill:#68544F;" d="M406,467c0,8.4,6.6,15,15,15h15v30H61c-24.9,0-45-20.1-45-45s20.1-45,45-45h375v30h-15
+	C412.6,452,406,458.6,406,467z"/>
+<g>
+	<rect x="226" y="302" style="fill:#E7E7E7;" width="150" height="30"/>
+	<rect x="226" y="362" style="fill:#E7E7E7;" width="150" height="30"/>
+</g>
+<g>
+	<rect x="256" y="120" style="fill:#2FC0F0;" width="60" height="30"/>
+	<rect x="196" y="120" style="fill:#2FC0F0;" width="30" height="30"/>
+</g>
+<g>
+	<rect x="271" y="302" style="fill:#D3D3D8;" width="105" height="30"/>
+	<rect x="271" y="362" style="fill:#D3D3D8;" width="105" height="30"/>
+</g>
+<path style="fill:#53433F;" d="M406,467c0,8.399,6.599,15,15,15h15v30H271v-90h165v30h-15C412.599,452,406,458.599,406,467z"/>
+<path style="fill:#E7E7E7;" d="M421,482H61c-8.27,0-15-6.73-15-15s6.73-15,15-15h360c-8.4,0-15,6.6-15,15S412.6,482,421,482z"/>
+<path style="fill:#D3D3D8;" d="M271,482h150c-0.808,0-1.592-0.079-2.362-0.197c-0.231-0.035-0.467-0.058-0.695-0.104
+	c-3.331-0.666-6.224-2.415-8.333-4.865c-0.072-0.084-0.153-0.161-0.223-0.246c-0.163-0.199-0.308-0.413-0.461-0.62
+	c-0.131-0.178-0.272-0.348-0.396-0.532c-0.104-0.155-0.191-0.322-0.29-0.481c-0.154-0.25-0.315-0.496-0.455-0.756
+	c-0.554-1.031-0.974-2.145-1.277-3.311c-0.322-1.239-0.51-2.537-0.51-3.89c0-8.401,6.599-15,15-15H271V482z"/>
+<rect x="271" y="120" style="fill:#0FA9DD;" width="45" height="30"/>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
